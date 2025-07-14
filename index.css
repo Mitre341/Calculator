@@ -1,0 +1,40 @@
+body{
+    margin: 0;
+    color: #112A46;
+    text-align: center;
+    background-color: #76BED0;
+}
+
+h1{
+    margin-top: 20px;
+    font-size: 25px;
+    color: #112A46;
+}
+#calc{
+    margin: 50px auto;
+    width: 250px;
+    height: 500px;
+    background-color:#ACC8E5;
+    border: solid 2px #112A46;
+    border-radius: 10px;
+    box-shadow: 0 0 10px #112A46
+
+}
+.input{
+    width: 200px;
+    height: 30px;
+    margin: 5px auto;
+    border-radius: 5px;
+    border: solid 1px #112A46;
+    padding-left: 10px;
+}   
+
+button{
+    width: 200px;
+    height: 30px;
+    margin: 5px auto;
+    border-radius: 5px;
+    border: solid 1px #112A46;
+    background-color: #112A46;
+    color: white;
+}
